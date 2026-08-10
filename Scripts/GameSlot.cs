@@ -1,5 +1,5 @@
 ﻿/*
- * Copyright 2025 yiroth
+ * Copyright 2025 Ashrose
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -18,10 +18,10 @@
 
 using System;
 using System.Collections.Generic;
-using LibYiroth;
+using Ashrose;
 using UnityEngine;
 
-namespace LibYiroth.Save
+namespace Ashrose.Save
 {
     [System.Serializable]
     public struct SaveKey : System.IEquatable<SaveKey>
