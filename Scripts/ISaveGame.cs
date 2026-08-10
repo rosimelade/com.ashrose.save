@@ -16,7 +16,7 @@
  * Purpose: An interface to help objects interact with the save system
  */
 
-namespace LibYiroth.Save
+namespace Ashrose.Save
 {
     public interface ISaveGame
     {
