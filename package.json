@@ -1,11 +1,11 @@
 {
-  "name": "com.yiroth.libyiroth.save",
-  "displayName": "LibYiroth - Save",
+  "name": "com.ashrose.save",
+  "displayName": "Ashrose - Save",
   "author": {
-    "name": "yiroth"
+    "name": "rosimelade"
   },
-  "version": "0.0.1",
-  "unity": "6000.3",
-  "description": "LibYiroth, Save",
+  "version": "0.0.2",
+  "unity": "6000.5",
+  "description": "Ashrose, Save",
   "relatedPackages": {}
 }
